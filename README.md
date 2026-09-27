@@ -1,7 +1,7 @@
 # GT3 Car Maker
 
 A Blender add-on for making **Gran Turismo 3  cars**.
-# Rrequirements
+# Requirements
 - Blender 4.2 or newer (No Info if it works with newer Blender versions.)
 - Pure Python. The only extra library is numpy, and Blender already ships it. No .exe files, no outside tools.
 ---
